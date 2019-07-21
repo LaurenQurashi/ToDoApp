@@ -1,7 +1,8 @@
 <template>
-  <div class="home">
+  <div class="lauren">
     <img alt="Vue logo" src="../assets/logo.png">
-    <Lauren msg="Hello Everyone!"/>
+    <h1> Welcome to my additional page!</h1>
+    <p> I've never used a router before so this is pretty sick tbh </p>
   </div>
 </template>
 
@@ -10,7 +11,7 @@
 import Lauren from '@/components/LaurensComponent.vue';
 
 export default {
-  name: 'home',
+  name: 'lauren',
   components: {
     Lauren,
   },
