@@ -1,19 +1,18 @@
 <template>
   <div class="lauren">
     <img alt="Vue logo" src="../assets/logo.png">
-    <h1> Welcome to my additional page!</h1>
-    <p> I've never used a router before so this is pretty sick tbh </p>
+    <h1> This is a HTML Header from the Lauren.vue file.</h1>
+    <p> This is a HTML paragraph from the Lauren.vue file.</p>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Lauren from '@/components/LaurensComponent.vue';
 
 export default {
   name: 'lauren',
   components: {
-    Lauren,
+
   },
 };
 </script>

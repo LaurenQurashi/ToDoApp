@@ -1,5 +1,3 @@
-/* Holds all the projects dependencies - like a Ruby gem file. The scripts refer to what
-commands the projects respond to.  */
 {
   "name": "todoapp",
   "version": "0.1.0",

@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <Lauren msg="Hello Everyone!"/>
+    <Lauren msg="This is a string written in the Home.vue file"/>
   </div>
 </template>
 

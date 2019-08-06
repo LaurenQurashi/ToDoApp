@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      This is the HTML in Lauren's component displaying here.
+      This is a HTML paragraph from the LaurensComponent.vue component displaying here.
     </p>
   </div>
 </template>
