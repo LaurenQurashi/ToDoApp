@@ -22,7 +22,7 @@ export default {
   },
 };
 
-//In order to use our embedded components like we have in the template above, we need to
+// In order to use our embedded components like we have in the template above, we need to
 // list it in our exports, so we are declaring that we are using the Lauren component. The
 // name Lauren is specified in the component's file's output under name.
 

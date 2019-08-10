@@ -1,14 +1,15 @@
 <template lang="html">
   <div class="todo-item">
     <p>{{todo.title}}</p>
+    <p>{{todo.completed}}</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "TodoItem",
-  props: ["todo"]
-}
+  name: 'TodoItem',
+  props: ['todo'],
+};
 </script>
 
 <style lang="css" scoped>
